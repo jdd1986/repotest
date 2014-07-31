@@ -1,6 +1,6 @@
 RReadme!
 Adding new line!
-Third new line!
+TThird new line!
 Adding changes from user 1
 asd
 Testing rebase conflict
